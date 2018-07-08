@@ -1,6 +1,6 @@
 # spark_ml_project
 
-Equipe:
+Team:
  * Julio Sales
  * Mácio Matheus
  * Victor Outtes    
