@@ -1,4 +1,4 @@
-# spark_ml_project
+# spark-ml-project
 
 Team:
  * Julio Sales
