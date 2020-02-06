@@ -11,7 +11,7 @@ This repository contains examples of implementations of machine learning models,
 
 Architecture used in project
 
-<img align="center" alt="arch" src="https://raw.githubusercontent.com/macio-matheus/spark_ml_project/master/wiki/architecture.png" data-canonical-src="https://raw.githubusercontent.com/macio-matheus/spark_ml_project/master/wiki/architecture.png" height="300" />
+<img align="center" alt="arch" src="https://raw.githubusercontent.com/macio-matheus/spark_ml_project/master/wiki/architecture.png" data-canonical-src="https://raw.githubusercontent.com/macio-matheus/spark_ml_project/master/wiki/architecture.png" height="250" />
 
 
 Machine learning models used for bigdata illustrations:
